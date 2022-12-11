@@ -8,7 +8,7 @@ GameCo is a new video game company and wants to foster a better understanding of
 
 ### Data 
 
-Open source data drawn from the website [https://www.vgchartz.com/]. The data set covers historical sales of video games (for games that sold more than 100,000 copies).
+Open source data drawn from the website [VGChartz](https://www.vgchartz.com). The data set covers historical sales of video games (for games that sold more than 100,000 copies).
 
 ### Tools
 
