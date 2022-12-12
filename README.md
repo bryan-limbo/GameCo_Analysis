@@ -14,3 +14,7 @@ Open source data drawn from the website [VGChartz](https://www.vgchartz.com). Th
 
 - Excel: Conduct a descriptive analysis using pivot tables and graphs to visualize the results
 - PowerPoint: Present the insights discovered in an analytical manner
+
+### Results
+
+The final report with recommendations can be found [here](https://github.com/bryan-limbo/GameCo_Analysis/blob/main/Final%20Project%20Presentation.pdf)
